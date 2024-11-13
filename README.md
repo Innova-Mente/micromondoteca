@@ -4,7 +4,7 @@ The Micromondoteca features two ready-to-use Microworlds:
 - Empty Microworld: Contains all the supported blocks.
 - Reaction Game Microworld: A fun reaction game that can be played with three embedded systems, each with a LED matrix. Two of these systems also need to have an FC-51 IR sensor.
 
-## Setupping Snap!
+## Setting up Snap! to run the Microworlds
 
 Clone this repository and checkout to the "pellonara" branch.
 
